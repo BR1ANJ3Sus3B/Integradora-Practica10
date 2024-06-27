@@ -7,5 +7,5 @@ Tomaremos cómo caso de estudio la estructura del Proyecto Integrador Multidicip
 Y cargaremos la estructura de carpetas y archivos del proyecto desde la línea de comandos del Sistema Operativo Windows.
 
 ----
-Creado por **Alumna: Brian Jesus Mendoza Marquez**
+Creado por **Alumno: Brian Jesus Mendoza Marquez**
 [@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)
